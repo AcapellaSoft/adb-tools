@@ -79,7 +79,7 @@ dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
     compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
     compile group: 'sqlline', name: 'sqlline', version: '1.1.9'
-    compile group: 'ru.acapella.db', name: 'adb-jdbc-driver', version: '0.1.0-SNAPSHOT'
+    compile group: 'ru.acapella.db', name: 'adb-jdbc-driver', version: '0.2.0-SNAPSHOT'
 }
 
 jar {
